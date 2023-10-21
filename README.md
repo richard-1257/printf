@@ -1,7 +1,7 @@
 # Printf
 
 ![Betty style](https://img.shields.io/badge/betty-style%20guide-purple?style=round-square)
-![Latest commit](https://img.shields.io/github/last-commit/B3zaleel/printf/main?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/richard-1257/printf/main?style=round-square)
 
 This project is a simplistic implementation of the [`printf`](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) function in the __C__ standard libray.
 
